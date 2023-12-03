@@ -1,3 +1,3 @@
 # App-Dev
 My First Repository
-# My favorite Movie is **Kimetsu no Yaiba**.
+# My favorite Anime series is **Kimetsu no Yaiba**.
